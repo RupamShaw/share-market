@@ -1,0 +1,19 @@
+{
+  "name": "share-market",
+  "version": "1.0.0",
+  "description": "My share market browse to see rates ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RupamShaw/share-market.git"
+  },
+  "author": "Rupam shaw <rupam.shawgmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RupamShaw/share-market/issues"
+  },
+  "homepage": "https://github.com/RupamShaw/share-market#readme"
+}
